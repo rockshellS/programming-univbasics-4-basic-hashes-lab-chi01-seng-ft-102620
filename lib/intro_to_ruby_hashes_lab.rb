@@ -2,8 +2,8 @@ def new_hash
  {}
 end
 
-def my_hash{
-  soda: "red pop" 
+def my_hash
+  { soda: "red pop" 
 }
 end
 
