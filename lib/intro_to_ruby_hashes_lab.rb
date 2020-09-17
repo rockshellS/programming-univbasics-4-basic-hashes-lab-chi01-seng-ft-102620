@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash{
-  soda: "red pop" }
+  soda: "red pop" 
+}
 end
 
 def pioneer
